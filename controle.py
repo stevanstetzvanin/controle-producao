@@ -1,4 +1,4 @@
-import mysql.connector    #Importa a biblioteca para conexao com o mysql
+import mysql.connector
 
 # MADE BY Stevan Stetz Vanin - UFSCar AUTOMAÇÃO INDUSTRIAL 2020
 
