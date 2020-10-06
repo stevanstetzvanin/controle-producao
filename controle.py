@@ -1,6 +1,6 @@
 import mysql.connector    #Importa a biblioteca para conexao com o mysql
 
-# Stevan Stetz Vanin - UFSCar AUTOMAÇÃO INDUSTRIAL 2020
+# MADE BY Stevan Stetz Vanin - UFSCar AUTOMAÇÃO INDUSTRIAL 2020
 
 db_connection = mysql.connector.connect(host='localhost', user='root', password='', database='controle')
 cursor = db_connection.cursor()
