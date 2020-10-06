@@ -3,3 +3,5 @@
 Bibliotecas: mysql connector
 
 py -m pip install mysql-connector
+
+DB NAME = controle
